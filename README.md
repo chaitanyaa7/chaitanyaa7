@@ -10,7 +10,7 @@
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress. 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | React | C++ 
+- 💻 &nbsp;  C++ | Python | JavaScript | React 
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind | Material UI
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Visual Studio code  | Git

@@ -13,7 +13,7 @@
 - 💻 &nbsp;  C++ | Python | JavaScript | React 
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind | Material UI
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Visual Studio code  | Git
+- 🔧 &nbsp;Visual Studio code  | Git
 
 
 
